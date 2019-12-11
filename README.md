@@ -1,7 +1,11 @@
 # doctor_companion
 
  In this flutter project,
+ 
+ 
  -> The Ui is responsive ( Look at the SizeConfig class  )
+ 
+ 
  -> Data are randomized locally ( AppoitmentManager )
  
  
