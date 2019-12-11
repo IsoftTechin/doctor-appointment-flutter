@@ -1,6 +1,18 @@
 # doctor_companion
 
-A new Flutter project.
+ In this flutter project,
+ -> The Ui is responsive ( Look at the SizeConfig class  )
+ -> Data are randomized locally ( AppoitmentManager )
+ 
+ 
+ ![alt text](https://github.com/PavieOlivier/doctor-appointment-flutter/raw/master/image/image.png)
+ 
+ Here is a Gif
+ 
+ ![alt text](https://github.com/PavieOlivier/doctor-appointment-flutter/raw/master/image/demo.gif)
+
+
+
 
 ## Getting Started
 
